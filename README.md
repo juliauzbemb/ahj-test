@@ -1,3 +1,5 @@
+![CI](https://github.com/juliauzbemb/ahj-test/actions/workflows/web.yml/badge.svg)
+
 что нужно
 1. git
 2. node / npm / yarn
